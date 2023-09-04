@@ -1,0 +1,28 @@
+Says
+
+Tableau can help visualize and analyze air routes,identifying popular routes,airline market share,and seasonal variations in travel patterns.
+Understand traveler demographics,preferences,and behaviour to tailor marketing campaigns and services more effectively.
+Monitor safety records and compliance with aviation regulations across airlines and regions.
+Study the movement of goods by air,optimizing cargo routes and supply chain operations.
+
+feels
+
+Global air transportation network with Tableau is Data-driven approach can offer valuable benefits.
+It is a practical way to make sense of vast and complex data in the aviation industry.
+It makes leading to better decision-making.
+It make improved efficiency and enhanced safety.
+
+Does
+
+Airlines can use Tableau to analyze historical data and identify profitable routes or areas with high demand.This can aid in route planning and scheduling.
+Analyzing passenger data can help airlines understand customer preferences,booking patterns,and loyalty trends,enabling more targeted marketing and service improvements.
+Tableau can also be used to monitor safety and compliance data,such as accident reports and regulatory compliance,which is crucial in the aviation industry.
+By identifying areas of inefficiency or waste,airlines and airports can make data-driven decisions to reduce costs and improve profitability.
+
+Think
+
+Tableau's interactive dashboards and visualizations can help you spot trends,patterns,and anomalies in air traffic data,such as route popularity,seasonal fluctuationnsteam,or airport congestion.
+Tableau can assist stakeholders in making data-driven decisions related to route planning,pricing strategies,or resource allocation within  the aviation industry.
+With real-time data integration capabilities,Tableau can provide up-to-the-minute insights into the dynamic nature of air travel,helping airlines and airports adapt to changing conditions.
+Tableau enables collaboration among team by sharing interactive dashboards and reports,ensuring that insights are accessible and actionable for various stakeholders.  
+
